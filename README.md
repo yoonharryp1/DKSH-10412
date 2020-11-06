@@ -36,5 +36,5 @@ void calc(int n){
 ![logo](https://github.com/yoonharryp1/DKSH-10412/blob/main/image/KakaoTalk_20201106_192825771.png)
 
 |반|번호|이름|
---------------
+|---|----|-------|
 |3|4|윤준서|
